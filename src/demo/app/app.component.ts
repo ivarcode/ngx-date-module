@@ -7,25 +7,13 @@ import { Component } from '@angular/core';
             <div class="container">
                 <div class="navbar-expand mr-auto navbar-nav">
                     <a class="navbar-brand" routerLink="/home"
-                        >ngx-date-module</a
+                        >ngx-package-starter</a
                     >
                     <a
                         class="nav-link"
                         routerLink="/demo"
                         routerLinkActive="active"
                         >demo</a
-                    >
-                    <a
-                        class="nav-link"
-                        routerLink="/getdate"
-                        routerLinkActive="active"
-                        >Date Retrieval</a
-                    >
-                    <a
-                        class="nav-link"
-                        routerLink="/addsubdemo"
-                        routerLinkActive="active"
-                        >Add/Subtract To Date</a
                     >
                     <button
                         class="navbar-toggler"
@@ -76,7 +64,7 @@ import { Component } from '@angular/core';
                 </div>
             </div>
         </nav>
-    `
+    `,
 })
 export class AppComponent {
     constructor() {}

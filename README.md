@@ -1,4 +1,4 @@
-# ngx-date-module
+# ngx-package-starter
 
 ## Commands
 
