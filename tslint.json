@@ -50,7 +50,7 @@
         "semicolon": [true, "always", "ignore-interfaces"],
         "switch-default": true,
         "trailing-comma": [
-            false,
+            true,
             {
                 "multiline": "always",
                 "singleline": "never"

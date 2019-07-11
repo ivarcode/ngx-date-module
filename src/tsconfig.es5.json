@@ -18,8 +18,8 @@
         "annotateForClosureCompiler": true,
         "strictMetadataEmit": true,
         "skipTemplateCodegen": true,
-        "flatModuleOutFile": "ngx-date-module.js",
-        "flatModuleId": "ngx-date-module"
+        "flatModuleOutFile": "ngx-package-starter.js",
+        "flatModuleId": "ngx-package-starter"
     },
     "files": ["./index.ts"]
 }
